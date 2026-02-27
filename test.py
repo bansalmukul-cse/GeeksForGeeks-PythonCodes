@@ -1,2 +1,2 @@
-print("this is a test for for jrnkins")
+print("this is a test for for jenkins")
 print("Wassup Buddy!! v9")
